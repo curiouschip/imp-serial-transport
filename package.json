@@ -1,0 +1,22 @@
+{
+  "name": "imp-serial-transport",
+  "version": "0.0.1",
+  "description": "IMP serial transport",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curiouschip/imp-serial-transport.git"
+  },
+  "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/curiouschip/imp-serial-transport/issues"
+  },
+  "homepage": "https://github.com/curiouschip/imp-serial-transport#readme"
+}
